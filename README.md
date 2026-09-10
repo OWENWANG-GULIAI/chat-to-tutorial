@@ -1,10 +1,18 @@
 <div align="center">
 
+<p><img src="assets/guliai-logo-on-light.png" alt="GULIAI" width="220"></p>
+
 # 素材整理成教程
 
 **把聊天、转写与截图按原话、原图、原顺序整理成可复核的教程。**
 
+![Version](https://img.shields.io/badge/version-0.2.0-0F6FAF)
+![Language](https://img.shields.io/badge/language-中文-EA580C)
+[![License: MIT](https://img.shields.io/badge/license-MIT-5E8F3A)](LICENSE)
+
 </div>
+
+---
 
 > **定位**：一个面向原始素材整理的 Agent Skill，默认把结构化结果写入钉钉 AI 文档。<br>
 > **不做什么**：不把素材重写成通用方法论，不删改原话，也不伪造缺失图片。
